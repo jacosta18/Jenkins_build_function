@@ -1,3 +1,21 @@
+# Jenkins General
+
+## Description:
+
+#### - Be uniform! use your name to filter! "This is our first Jenkins job for this class"
+
+#### - Discard all build
+
+#### - Is github related to the project? (yes - tick)
+
+#### - upstream, if the project above finishes do you want to spin up ...
+
+
+
+
+
+
+
 # Jenkins Build
 
 ## Copy artifacts from another project:
